@@ -1,6 +1,8 @@
-Hello Phu Quoc,
+### Hello Phu Quoc,
 
-My name’s Jake. I’m staying here for a few weeks. I hope to stay for longer if I can set up a coding and environmental protection business. 
+### My name’s Jake. I’m staying here for a few weeks. I hope to stay for longer if I can set up a coding and environmental development business. 
+
+### Check out my [Phu Quoc Economy AI](https://beta.character.ai/chat?char=xOk3p-rZwW5VDERY9gIpTZXTU0qKCSWDkDT_cAAzqdM) Ask it a question if you like!
 
 ## Short Term Aims
 
